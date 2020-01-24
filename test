@@ -1,1 +1,5 @@
 
+; sub-domain definitions
+; zone fragment for us.example.com
+$ORIGIN cdn-media.umu360.com.
+@                  ns    dns1.hichina.com.
